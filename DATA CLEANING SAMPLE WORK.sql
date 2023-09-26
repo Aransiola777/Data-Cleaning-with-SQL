@@ -173,7 +173,7 @@ From PortfolioProject.dbo.NashvilleHousing
 
 
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
-DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
+DROP COLUMN OwnerAddress, PropertyAddress
 
 
 
